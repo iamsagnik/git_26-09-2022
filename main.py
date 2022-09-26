@@ -6,9 +6,7 @@ def circumf(r):
     return (math.pi * r * 2)
 
 def area(r):
-    p = math.pi
-    area = p * r * r
-    return area
+    return (math.pi * r * r)
 
 
 r = float(input("Enter radius :"))
