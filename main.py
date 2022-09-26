@@ -1,11 +1,9 @@
 import math
 
-print("Hello World !")
+print("Hare Krishna !")
 
 def circumf(r):
-    p = math.pi
-    c = 2 * p * r
-    return c
+    return (math.pi * r * 2)
 
 def area(r):
     p = math.pi
